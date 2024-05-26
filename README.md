@@ -4,7 +4,7 @@ Here's a comprehensive and professional `README.md` file for the Task Rabbit pro
 
 # Task Rabbit: Your Service Provider App
 
-![Task Rabbit Logo](app/src/main/res/drawable/start.jpg)
+![Task Rabbit Logo](Task-Rabbit-Image/start.jpg)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ This project was conceived and developed solely by me as part of the Mobile Appl
 - **Wide Variety of Services:** Users have access to a wide range of service providers in their desired location.
 - **Real-Time Notifications:** Users receive toaster notifications confirming successful bookings.
 
-![Task Rabbit Screenshot](app/src/main/res/drawable/Task Rabbit - Images/s1.png)
+![Task Rabbit Screenshot](Task-Rabbit-Image/s4.png)
 
 ## Installation
 
@@ -67,20 +67,22 @@ To install and run Task Rabbit on your local machine, follow these steps:
 1. **Sign Up:**
    - Enter your name, email, and password to create an account.
    - Your credentials will be securely stored in the SQL database.
+   ![Task Rabbit Screenshot](Task-Rabbit-Image/s3.png)
 
 2. **Log In:**
    - Use your registered email and password to log in to the app.
+   ![Task Rabbit Screenshot](Task-Rabbit-Image/s2.png)
 
 3. **Browse Services:**
    - Choose from various service categories such as plumbing, electrical, and more.
    - View profiles of available service workers in your area.
+   ![Task Rabbit Screenshot](Task-Rabbit-Image/s4.png)
 
 4. **Book a Service:**
    - Select a service worker and choose a convenient time slot.
    - Confirm your booking and receive a notification.
-
-5. **Manage Bookings:**
-   - View and manage your upcoming and past bookings from your profile.
+   ![Task Rabbit Screenshot](Task-Rabbit-Image/s5.png)
+   ![Task Rabbit Screenshot](Task-Rabbit-Image/s6.png)
 
 ## Methodology
 
@@ -88,11 +90,7 @@ To install and run Task Rabbit on your local machine, follow these steps:
 - **Service Selection:** Users can choose from six types of workers and view a list of available professionals in their area.
 - **Booking Confirmation:** A toaster notification confirms successful bookings, and users are redirected to the home page.
 
-![Task Rabbit Flowchart](app/src/main/res/drawable/Task Rabbit - Images/s7.png)
-
-## Acknowledgements
-
-We extend our heartfelt gratitude to Prof. Amruta Bhawarthi for her invaluable guidance and support throughout the development of Task Rabbit. Her expertise and dedication were crucial in bringing our project to fruition.
+![Task Rabbit Flowchart](Task-Rabbit-Image/s7.png)
 
 ## License
 
