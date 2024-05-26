@@ -88,7 +88,7 @@ To install and run Task Rabbit on your local machine, follow these steps:
 - **Service Selection:** Users can choose from six types of workers and view a list of available professionals in their area.
 - **Booking Confirmation:** A toaster notification confirms successful bookings, and users are redirected to the home page.
 
-![Task Rabbit Flowchart](images/taskrabbit_flowchart.png)
+![Task Rabbit Flowchart](app/src/main/res/drawable/Task Rabbit - Images/s7.png)
 
 ## Acknowledgements
 
@@ -97,5 +97,3 @@ We extend our heartfelt gratitude to Prof. Amruta Bhawarthi for her invaluable g
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-![Vishwakarma Institute of Technology](images/vit_logo.png)
