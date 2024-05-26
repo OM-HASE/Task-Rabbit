@@ -67,20 +67,24 @@ To install and run Task Rabbit on your local machine, follow these steps:
 1. **Sign Up:**
    - Enter your name, email, and password to create an account.
    - Your credentials will be securely stored in the SQL database.
+     
    ![Task Rabbit Screenshot](Task-Rabbit-Image/s3.png)
 
 2. **Log In:**
    - Use your registered email and password to log in to the app.
+     
    ![Task Rabbit Screenshot](Task-Rabbit-Image/s2.png)
 
 3. **Browse Services:**
    - Choose from various service categories such as plumbing, electrical, and more.
    - View profiles of available service workers in your area.
+     
    ![Task Rabbit Screenshot](Task-Rabbit-Image/s4.png)
 
 4. **Book a Service:**
    - Select a service worker and choose a convenient time slot.
    - Confirm your booking and receive a notification.
+  
    ![Task Rabbit Screenshot](Task-Rabbit-Image/s5.png)
    ![Task Rabbit Screenshot](Task-Rabbit-Image/s6.png)
 
